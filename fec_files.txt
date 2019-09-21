@@ -1,0 +1,161 @@
+file_url	time_period	data_type
+https://www.fec.gov/files/bulk-downloads/2020/weball20.zip	2019–2020	All candidates
+https://www.fec.gov/files/bulk-downloads/2018/weball18.zip	2017–2018	All candidates
+https://www.fec.gov/files/bulk-downloads/2016/weball16.zip	2015–2016	All candidates
+https://www.fec.gov/files/bulk-downloads/2014/weball14.zip	2013–2014	All candidates
+https://www.fec.gov/files/bulk-downloads/2012/weball12.zip	2011–2012	All candidates
+https://www.fec.gov/files/bulk-downloads/2010/weball10.zip	2009–2010	All candidates
+https://www.fec.gov/files/bulk-downloads/2008/weball08.zip	2007-2008	All candidates
+https://www.fec.gov/files/bulk-downloads/2006/weball06.zip	2005–2006	All candidates
+https://www.fec.gov/files/bulk-downloads/2004/weball04.zip	2003–2004	All candidates
+https://www.fec.gov/files/bulk-downloads/2002/weball02.zip	2001-2002	All candidates
+https://www.fec.gov/files/bulk-downloads/2000/weball00.zip	1999–2000	All candidates
+https://www.fec.gov/files/bulk-downloads/1998/weball98.zip	1997–1998	All candidates
+https://www.fec.gov/files/bulk-downloads/1996/weball96.zip	1995–1996	All candidates
+https://www.fec.gov/files/bulk-downloads/1994/weball94.zip	1993–1994	All candidates
+https://www.fec.gov/files/bulk-downloads/1992/weball92.zip	1991–1992	All candidates
+https://www.fec.gov/files/bulk-downloads/1990/weball90.zip	1989–1990	All candidates
+https://www.fec.gov/files/bulk-downloads/1988/weball88.zip	1987–1988	All candidates
+https://www.fec.gov/files/bulk-downloads/1986/weball86.zip	1985–1986	All candidates
+https://www.fec.gov/files/bulk-downloads/1984/weball84.zip	1983–1984	All candidates
+https://www.fec.gov/files/bulk-downloads/1982/weball82.zip	1981–1982	All candidates
+https://www.fec.gov/files/bulk-downloads/1980/weball80.zip	1979–1980	All candidates
+https://www.fec.gov/files/bulk-downloads/2020/cn20.zip	2019–2020	Candidate master
+https://www.fec.gov/files/bulk-downloads/2018/cn18.zip	2017–2018	Candidate master
+https://www.fec.gov/files/bulk-downloads/2016/cn16.zip	2015–2016	Candidate master
+https://www.fec.gov/files/bulk-downloads/2014/cn14.zip	2013–2014	Candidate master
+https://www.fec.gov/files/bulk-downloads/2012/cn12.zip	2011–2012	Candidate master
+https://www.fec.gov/files/bulk-downloads/2010/cn10.zip	2009–2010	Candidate master
+https://www.fec.gov/files/bulk-downloads/2008/cn08.zip	2007-2008	Candidate master
+https://www.fec.gov/files/bulk-downloads/2006/cn06.zip	2005–2006	Candidate master
+https://www.fec.gov/files/bulk-downloads/2004/cn04.zip	2003–2004	Candidate master
+https://www.fec.gov/files/bulk-downloads/2002/cn02.zip	2001-2002	Candidate master
+https://www.fec.gov/files/bulk-downloads/2000/cn00.zip	1999–2000	Candidate master
+https://www.fec.gov/files/bulk-downloads/1998/cn98.zip	1997–1998	Candidate master
+https://www.fec.gov/files/bulk-downloads/1996/cn96.zip	1995–1996	Candidate master
+https://www.fec.gov/files/bulk-downloads/1994/cn94.zip	1993–1994	Candidate master
+https://www.fec.gov/files/bulk-downloads/1992/cn92.zip	1991–1992	Candidate master
+https://www.fec.gov/files/bulk-downloads/1990/cn90.zip	1989–1990	Candidate master
+https://www.fec.gov/files/bulk-downloads/1988/cn88.zip	1987–1988	Candidate master
+https://www.fec.gov/files/bulk-downloads/1986/cn86.zip	1985–1986	Candidate master
+https://www.fec.gov/files/bulk-downloads/1984/cn84.zip	1983–1984	Candidate master
+https://www.fec.gov/files/bulk-downloads/1982/cn82.zip	1981–1982	Candidate master
+https://www.fec.gov/files/bulk-downloads/1980/cn80.zip	1979–1980	Candidate master
+https://www.fec.gov/files/bulk-downloads/2020/webl20.zip	2019–2020	House/Senate current campaigns
+https://www.fec.gov/files/bulk-downloads/2018/webl18.zip	2017–2018	House/Senate current campaigns
+https://www.fec.gov/files/bulk-downloads/2016/webl16.zip	2015–2016	House/Senate current campaigns
+https://www.fec.gov/files/bulk-downloads/2014/webl14.zip	2013–2014	House/Senate current campaigns
+https://www.fec.gov/files/bulk-downloads/2012/webl12.zip	2011–2012	House/Senate current campaigns
+https://www.fec.gov/files/bulk-downloads/2010/webl10.zip	2009–2010	House/Senate current campaigns
+https://www.fec.gov/files/bulk-downloads/2008/webl08.zip	2007-2008	House/Senate current campaigns
+https://www.fec.gov/files/bulk-downloads/2006/webl06.zip	2005–2006	House/Senate current campaigns
+https://www.fec.gov/files/bulk-downloads/2004/webl04.zip	2003–2004	House/Senate current campaigns
+https://www.fec.gov/files/bulk-downloads/2002/webl02.zip	2001-2002	House/Senate current campaigns
+https://www.fec.gov/files/bulk-downloads/2000/webl00.zip	1999–2000	House/Senate current campaigns
+https://www.fec.gov/files/bulk-downloads/1998/webl98.zip	1997–1998	House/Senate current campaigns
+https://www.fec.gov/files/bulk-downloads/1996/webl96.zip	1995–1996	House/Senate current campaigns
+https://www.fec.gov/files/bulk-downloads/2020/cm20.zip	2019–2020	Committee master
+https://www.fec.gov/files/bulk-downloads/2018/cm18.zip	2017–2018	Committee master
+https://www.fec.gov/files/bulk-downloads/2016/cm16.zip	2015–2016	Committee master
+https://www.fec.gov/files/bulk-downloads/2014/cm14.zip	2013–2014	Committee master
+https://www.fec.gov/files/bulk-downloads/2012/cm12.zip	2011–2012	Committee master
+https://www.fec.gov/files/bulk-downloads/2010/cm10.zip	2009–2010	Committee master
+https://www.fec.gov/files/bulk-downloads/2008/cm08.zip	2007-2008	Committee master
+https://www.fec.gov/files/bulk-downloads/2006/cm06.zip	2005–2006	Committee master
+https://www.fec.gov/files/bulk-downloads/2004/cm04.zip	2003–2004	Committee master
+https://www.fec.gov/files/bulk-downloads/2002/cm02.zip	2001-2002	Committee master
+https://www.fec.gov/files/bulk-downloads/2000/cm00.zip	1999–2000	Committee master
+https://www.fec.gov/files/bulk-downloads/1998/cm98.zip	1997–1998	Committee master
+https://www.fec.gov/files/bulk-downloads/1996/cm96.zip	1995–1996	Committee master
+https://www.fec.gov/files/bulk-downloads/1994/cm94.zip	1993–1994	Committee master
+https://www.fec.gov/files/bulk-downloads/1992/cm92.zip	1991–1992	Committee master
+https://www.fec.gov/files/bulk-downloads/1990/cm90.zip	1989–1990	Committee master
+https://www.fec.gov/files/bulk-downloads/1988/cm88.zip	1987–1988	Committee master
+https://www.fec.gov/files/bulk-downloads/1986/cm86.zip	1985–1986	Committee master
+https://www.fec.gov/files/bulk-downloads/1984/cm84.zip	1983–1984	Committee master
+https://www.fec.gov/files/bulk-downloads/1982/cm82.zip	1981–1982	Committee master
+https://www.fec.gov/files/bulk-downloads/1980/cm80.zip	1979–1980	Committee master
+https://www.fec.gov/files/bulk-downloads/2020/webk20.zip	2019–2020	PAC summary
+https://www.fec.gov/files/bulk-downloads/2018/webk18.zip	2017–2018	PAC summary
+https://www.fec.gov/files/bulk-downloads/2016/webk16.zip	2015–2016	PAC summary
+https://www.fec.gov/files/bulk-downloads/2014/webk14.zip	2013–2014	PAC summary
+https://www.fec.gov/files/bulk-downloads/2012/webk12.zip	2011–2012	PAC summary
+https://www.fec.gov/files/bulk-downloads/2010/webk10.zip	2009–2010	PAC summary
+https://www.fec.gov/files/bulk-downloads/2008/webk08.zip	2007-2008	PAC summary
+https://www.fec.gov/files/bulk-downloads/2006/webk06.zip	2005–2006	PAC summary
+https://www.fec.gov/files/bulk-downloads/2004/webk04.zip	2003–2004	PAC summary
+https://www.fec.gov/files/bulk-downloads/2002/webk02.zip	2001-2002	PAC summary
+https://www.fec.gov/files/bulk-downloads/2000/webk00.zip	1999–2000	PAC summary
+https://www.fec.gov/files/bulk-downloads/1998/webk98.zip	1997–1998	PAC summary
+https://www.fec.gov/files/bulk-downloads/1996/webk96.zip	1995–1996	PAC summary
+https://www.fec.gov/files/bulk-downloads/2020/indiv20.zip	2019–2020	Contributions by individuals
+https://www.fec.gov/files/bulk-downloads/2018/indiv18.zip	2017–2018	Contributions by individuals
+https://www.fec.gov/files/bulk-downloads/2016/indiv16.zip	2015–2016	Contributions by individuals
+https://www.fec.gov/files/bulk-downloads/2014/indiv14.zip	2013–2014	Contributions by individuals
+https://www.fec.gov/files/bulk-downloads/2012/indiv12.zip	2011–2012	Contributions by individuals
+https://www.fec.gov/files/bulk-downloads/2010/indiv10.zip	2009–2010	Contributions by individuals
+https://www.fec.gov/files/bulk-downloads/2008/indiv08.zip	2007-2008	Contributions by individuals
+https://www.fec.gov/files/bulk-downloads/2006/indiv06.zip	2005–2006	Contributions by individuals
+https://www.fec.gov/files/bulk-downloads/2004/indiv04.zip	2003–2004	Contributions by individuals
+https://www.fec.gov/files/bulk-downloads/2002/indiv02.zip	2001-2002	Contributions by individuals
+https://www.fec.gov/files/bulk-downloads/2000/indiv00.zip	1999–2000	Contributions by individuals
+https://www.fec.gov/files/bulk-downloads/1998/indiv98.zip	1997–1998	Contributions by individuals
+https://www.fec.gov/files/bulk-downloads/1996/indiv96.zip	1995–1996	Contributions by individuals
+https://www.fec.gov/files/bulk-downloads/1994/indiv94.zip	1993–1994	Contributions by individuals
+https://www.fec.gov/files/bulk-downloads/1992/indiv92.zip	1991–1992	Contributions by individuals
+https://www.fec.gov/files/bulk-downloads/1990/indiv90.zip	1989–1990	Contributions by individuals
+https://www.fec.gov/files/bulk-downloads/1988/indiv88.zip	1987–1988	Contributions by individuals
+https://www.fec.gov/files/bulk-downloads/1986/indiv86.zip	1985–1986	Contributions by individuals
+https://www.fec.gov/files/bulk-downloads/1984/indiv84.zip	1983–1984	Contributions by individuals
+https://www.fec.gov/files/bulk-downloads/1982/indiv82.zip	1981–1982	Contributions by individuals
+https://www.fec.gov/files/bulk-downloads/1980/indiv80.zip	1979–1980	Contributions by individuals
+https://www.fec.gov/files/bulk-downloads/2020/pas220.zip	2019–2020	Contributions from committees to candidates & independent expenditures
+https://www.fec.gov/files/bulk-downloads/2018/pas218.zip	2017–2018	Contributions from committees to candidates & independent expenditures
+https://www.fec.gov/files/bulk-downloads/2016/pas216.zip	2015–2016	Contributions from committees to candidates & independent expenditures
+https://www.fec.gov/files/bulk-downloads/2014/pas214.zip	2013–2014	Contributions from committees to candidates & independent expenditures
+https://www.fec.gov/files/bulk-downloads/2012/pas212.zip	2011–2012	Contributions from committees to candidates & independent expenditures
+https://www.fec.gov/files/bulk-downloads/2010/pas210.zip	2009–2010	Contributions from committees to candidates & independent expenditures
+https://www.fec.gov/files/bulk-downloads/2008/pas208.zip	2007-2008	Contributions from committees to candidates & independent expenditures
+https://www.fec.gov/files/bulk-downloads/2006/pas206.zip	2005–2006	Contributions from committees to candidates & independent expenditures
+https://www.fec.gov/files/bulk-downloads/2004/pas204.zip	2003–2004	Contributions from committees to candidates & independent expenditures
+https://www.fec.gov/files/bulk-downloads/2002/pas202.zip	2001-2002	Contributions from committees to candidates & independent expenditures
+https://www.fec.gov/files/bulk-downloads/2000/pas200.zip	1999–2000	Contributions from committees to candidates & independent expenditures
+https://www.fec.gov/files/bulk-downloads/1998/pas298.zip	1997–1998	Contributions from committees to candidates & independent expenditures
+https://www.fec.gov/files/bulk-downloads/1996/pas296.zip	1995–1996	Contributions from committees to candidates & independent expenditures
+https://www.fec.gov/files/bulk-downloads/1994/pas294.zip	1993–1994	Contributions from committees to candidates & independent expenditures
+https://www.fec.gov/files/bulk-downloads/1992/pas292.zip	1991–1992	Contributions from committees to candidates & independent expenditures
+https://www.fec.gov/files/bulk-downloads/1990/pas290.zip	1989–1990	Contributions from committees to candidates & independent expenditures
+https://www.fec.gov/files/bulk-downloads/1988/pas288.zip	1987–1988	Contributions from committees to candidates & independent expenditures
+https://www.fec.gov/files/bulk-downloads/1986/pas286.zip	1985–1986	Contributions from committees to candidates & independent expenditures
+https://www.fec.gov/files/bulk-downloads/1984/pas284.zip	1983–1984	Contributions from committees to candidates & independent expenditures
+https://www.fec.gov/files/bulk-downloads/1982/pas282.zip	1981–1982	Contributions from committees to candidates & independent expenditures
+https://www.fec.gov/files/bulk-downloads/2020/oth20.zip	2019–2020	Any transaction from one committee to another
+https://www.fec.gov/files/bulk-downloads/2018/oth18.zip	2017–2018	Any transaction from one committee to another
+https://www.fec.gov/files/bulk-downloads/2016/oth16.zip	2015–2016	Any transaction from one committee to another
+https://www.fec.gov/files/bulk-downloads/2014/oth14.zip	2013–2014	Any transaction from one committee to another
+https://www.fec.gov/files/bulk-downloads/2012/oth12.zip	2011–2012	Any transaction from one committee to another
+https://www.fec.gov/files/bulk-downloads/2010/oth10.zip	2009–2010	Any transaction from one committee to another
+https://www.fec.gov/files/bulk-downloads/2008/oth08.zip	2007-2008	Any transaction from one committee to another
+https://www.fec.gov/files/bulk-downloads/2006/oth06.zip	2005–2006	Any transaction from one committee to another
+https://www.fec.gov/files/bulk-downloads/2004/oth04.zip	2003–2004	Any transaction from one committee to another
+https://www.fec.gov/files/bulk-downloads/2002/oth02.zip	2001-2002	Any transaction from one committee to another
+https://www.fec.gov/files/bulk-downloads/2000/oth00.zip	1999–2000	Any transaction from one committee to another
+https://www.fec.gov/files/bulk-downloads/1998/oth98.zip	1997–1998	Any transaction from one committee to another
+https://www.fec.gov/files/bulk-downloads/1996/oth96.zip	1995–1996	Any transaction from one committee to another
+https://www.fec.gov/files/bulk-downloads/1994/oth94.zip	1993–1994	Any transaction from one committee to another
+https://www.fec.gov/files/bulk-downloads/1992/oth92.zip	1991–1992	Any transaction from one committee to another
+https://www.fec.gov/files/bulk-downloads/1990/oth90.zip	1989–1990	Any transaction from one committee to another
+https://www.fec.gov/files/bulk-downloads/1988/oth88.zip	1987–1988	Any transaction from one committee to another
+https://www.fec.gov/files/bulk-downloads/1986/oth86.zip	1985–1986	Any transaction from one committee to another
+https://www.fec.gov/files/bulk-downloads/1984/oth84.zip	1983–1984	Any transaction from one committee to another
+https://www.fec.gov/files/bulk-downloads/1982/oth82.zip	1981–1982	Any transaction from one committee to another
+https://www.fec.gov/files/bulk-downloads/1980/oth80.zip	1979–1980	Any transaction from one committee to another
+https://www.fec.gov/files/bulk-downloads/2020/oppexp20.zip	2019–2020	Operating expenditures
+https://www.fec.gov/files/bulk-downloads/2018/oppexp18.zip	2017–2018	Operating expenditures
+https://www.fec.gov/files/bulk-downloads/2016/oppexp16.zip	2015–2016	Operating expenditures
+https://www.fec.gov/files/bulk-downloads/2014/oppexp14.zip	2013–2014	Operating expenditures
+https://www.fec.gov/files/bulk-downloads/2012/oppexp12.zip	2011–2012	Operating expenditures
+https://www.fec.gov/files/bulk-downloads/2010/oppexp10.zip	2009–2010	Operating expenditures
+https://www.fec.gov/files/bulk-downloads/2008/oppexp08.zip	2007-2008	Operating expenditures
+https://www.fec.gov/files/bulk-downloads/2006/oppexp06.zip	2005–2006	Operating expenditures
+https://www.fec.gov/files/bulk-downloads/2004/oppexp04.zip	2003–2004	Operating expenditures
