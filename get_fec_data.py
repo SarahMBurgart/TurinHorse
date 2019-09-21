@@ -3,30 +3,36 @@
 from bs4 import BeautifulSoup
 from urllib.request import urlopen
 import pandas
+from zipfile import ZipFile
 
-# Read in the file of data download locations.
-with open('fec_files.txt', 'r') as f:
-    files = [[el for el in line.strip().split('\t')] for line in f.readlines()]
-
-file_header = files[0]
-files = files[1:]
-
+# Read in the file urls and metadata.
+files = pandas.read_csv('fec_files.txt', sep='\t')
 description_files = pandas.read_csv('fec_file_data_descriptions.txt', sep='\t')
 
 # Get the data descriptions and save them in a dict as pandas dfs.
 data_descriptions = {}
 for index, row in description_files.iterrows():
-    data_descriptions[row['data_type']] = pandas.read_html(row['file_url'])
+    data_descriptions[row['data_type']] = pandas.read_html(row['file_url'], header=0)[0]
 
+# Combine data across years for the data download categories.
+data_types = set(files['data_type'])
 
-
-
-
-
-
-
-
-
+for dt in data_types:
+    # Get the files of this data type.
+    this_dt = files[files['data_type'] == dt]
+    # Read in each data file, unzip it, add year labels, and combine it.
+    for index, row in this_dt.iterrows():
+        if index == 0:
+            all_years = pandas.read_csv(
+                row['file_url'], sep='|', header=None, names=data_descriptions[dt]['Column name']
+            ).assign(time_period=row['time_period'])
+        else:
+            df = pandas.read_csv(
+                row['file_url'], sep='|', header=None, names=data_descriptions[dt]['Column name']
+            ).assign(time_period=row['time_period'])
+            all_years = pandas.concat([all_years, df], ignore_index=True)
+    # At this point, you would be able to put all_years into a database with the appropriate structure.
+    # You will want to add the data type (dt) as a label.
 
 # Define where the FEC data is located.
 FEC_BULK_DATA_URL = 'https://www.fec.gov/data/browse-data/'
