@@ -41,6 +41,17 @@ https://www.fec.gov/files/bulk-downloads/1986/cn86.zip	1985–1986	Candidate mas
 https://www.fec.gov/files/bulk-downloads/1984/cn84.zip	1983–1984	Candidate master
 https://www.fec.gov/files/bulk-downloads/1982/cn82.zip	1981–1982	Candidate master
 https://www.fec.gov/files/bulk-downloads/1980/cn80.zip	1979–1980	Candidate master
+https://www.fec.gov/files/bulk-downloads/2020/ccl20.zip	2019–2020	Candidate-committee linkages
+https://www.fec.gov/files/bulk-downloads/2018/ccl18.zip	2017–2018	Candidate-committee linkages
+https://www.fec.gov/files/bulk-downloads/2016/ccl16.zip	2015–2016	Candidate-committee linkages
+https://www.fec.gov/files/bulk-downloads/2014/ccl14.zip	2013–2014	Candidate-committee linkages
+https://www.fec.gov/files/bulk-downloads/2012/ccl12.zip	2011–2012	Candidate-committee linkages
+https://www.fec.gov/files/bulk-downloads/2010/ccl10.zip	2009–2010	Candidate-committee linkages
+https://www.fec.gov/files/bulk-downloads/2008/ccl08.zip	2007-2008	Candidate-committee linkages
+https://www.fec.gov/files/bulk-downloads/2006/ccl06.zip	2005–2006	Candidate-committee linkages
+https://www.fec.gov/files/bulk-downloads/2004/ccl04.zip	2003–2004	Candidate-committee linkages
+https://www.fec.gov/files/bulk-downloads/2002/ccl02.zip	2001-2002	Candidate-committee linkages
+https://www.fec.gov/files/bulk-downloads/2000/ccl00.zip	1999–2000	Candidate-committee linkages
 https://www.fec.gov/files/bulk-downloads/2020/webl20.zip	2019–2020	House/Senate current campaigns
 https://www.fec.gov/files/bulk-downloads/2018/webl18.zip	2017–2018	House/Senate current campaigns
 https://www.fec.gov/files/bulk-downloads/2016/webl16.zip	2015–2016	House/Senate current campaigns
