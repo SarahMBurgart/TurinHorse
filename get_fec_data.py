@@ -2,6 +2,30 @@
 
 from bs4 import BeautifulSoup
 from urllib.request import urlopen
+import pandas
+
+# Read in the file of data download locations.
+with open('fec_files.txt', 'r') as f:
+    files = [[el for el in line.strip().split('\t')] for line in f.readlines()]
+
+file_header = files[0]
+files = files[1:]
+
+description_files = pandas.read_csv('fec_file_data_descriptions.txt', sep='\t')
+
+# Get the data descriptions and save them in a dict as pandas dfs.
+data_descriptions = {}
+for index, row in description_files.iterrows():
+    data_descriptions[row['data_type']] = pandas.read_html(row['file_url'])
+
+
+
+
+
+
+
+
+
 
 
 # Define where the FEC data is located.
